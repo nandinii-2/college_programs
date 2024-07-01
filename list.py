@@ -1,4 +1,3 @@
-# college_programs
 a=10
 b=20
 list=[10,20,30,40,50]
